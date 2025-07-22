@@ -21,7 +21,7 @@ Here are some of the main areas included in this collection:
   - PySpark  
   - Scala
 
-- 🐧 **Linux & Bash**  
+-  **Linux & Bash**  
   - Bash scripting  
   - Linux command line tools
 
@@ -60,9 +60,4 @@ Feel free to open an issue or PR if you’d like to add other helpful cheat shee
 
 ---
 
-## License
-
-This collection is shared for educational and reference purposes only. All rights belong to the respective authors and sources.
-
----
 
