@@ -45,7 +45,7 @@ Here are some of the main areas included in this collection:
 | `bash-guide.pdf`             | Bash scripting essentials            |
 | `Scikit-Learn_Cheat_Sheet.pdf` | Quick ML guide using Scikit-learn |
 | `numpy-cheat-sheet.pdf`      | NumPy array operations summary       |
-
+| `dbt-cheetsheet`             | Dbt cheetsheet |
 ---
 
 ## Usage
