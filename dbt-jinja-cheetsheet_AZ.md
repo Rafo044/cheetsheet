@@ -178,7 +178,7 @@ Bu üsul sonuncu `OR`-u çıxarır və daha oxunaqlıdır.
 
 > **Praktik:** `get_columns_in_relation` macro-larda sütun siyahısı almaq üçün çox faydalıdır.
 
-## 4. Sənin verdiyin macro nümunəsinin yaxşılaşdırılmış versiyası
+## 4. Macro nümunəsinin yaxşılaşdırılmış versiyası
 
 Orijinal:
 
@@ -281,12 +281,6 @@ Bu macro `dbt test` içində `severity` və s. ilə istifadə edilə bilər.
 * `adapter.get_columns_in_relation()`-dan sonra `if not cols` yoxlamasını unutma.
 * `profiles.yml`-də parolları env\_var ilə saxla; heç vaxt həssas məlumatı repo‑da saxlamayın.
 
----
-
-# Son notlar və növbəti addımlar
-
-* Bu sənədi istəsən genişləndirə bilərəm: *DBT adapter API reference*, *dəyişən adapter-lar üçün nümunələr (Postgres vs MySQL vs Snowflake)*, və ya *CI/CD üçün hazır GitHub Actions workflow*.
-* Hansını əvvəlcə istəyirsən: `DBT adapter API reference` yoxsa `CI workflow (docker-compose və ya services)`?
 
 ---
 
