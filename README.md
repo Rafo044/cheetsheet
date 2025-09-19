@@ -3,7 +3,6 @@
 This repository contains a curated collection of cheat sheets, quick reference guides, and helpful PDFs for frequently used technologies in data engineering, software development, and system administration.
 
 ---
-
 ## Topics Covered
 
 Here are some of the main areas included in this collection:
